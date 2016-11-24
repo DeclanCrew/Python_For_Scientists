@@ -15,4 +15,3 @@ def read_valid_universities (file, removeEmpty):
             output.append(entry)
     return output
 
-read_valid_universities("uniData.csv", False)
